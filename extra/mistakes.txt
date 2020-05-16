@@ -1,0 +1,16 @@
+system mistake codes:
+
+11 - temperature and humidity sensor connection trouble
+12 - temperature measuring troubles
+13 - humidity measuring troubles
+
+18 - atmosphere pressure sensor connection trouble
+19 - atmosphere pressure measuring troubles
+
+21 - interface sensor connection troubles
+22 - interface sensor data recieving
+
+303 - wrong debug mode
+404 - total system mistake
+
+all mistakes are sent to serial port
